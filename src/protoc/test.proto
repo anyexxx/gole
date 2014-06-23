@@ -1,0 +1,13 @@
+package extension_base;
+
+message BaseMessage {
+  optional int32 height = 1;
+  extensions 4 to 9;
+  extensions 16 to max;
+}
+
+// Another message that may be extended, using message_set_wire_format.
+message OldStyleMessage {
+  option message_set_wire_format = true;
+  extensions 100 to max;
+}

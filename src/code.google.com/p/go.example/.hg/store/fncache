@@ -1,0 +1,6 @@
+data/hello/hello.go.i
+data/newmath/sqrt.go.i
+data/newmath/sqrt_test.go.i
+data/codereview.cfg.i
+data/PATENTS.i
+data/LICENSE.i
