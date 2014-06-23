@@ -18,4 +18,5 @@ go+redis+mongoDB
 
 运行：
 设置好GOPATH，将src的文件夹替换到GOPATH下的就可以了
+
 src/compile下的都是要编译的文件，用go install即可
