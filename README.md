@@ -23,3 +23,5 @@ src/me.qqtu.game为服务器逻辑，其他为第三方包
 src/me.qqtu.game/compile下的都是要编译的文件，用go install即可
 
 整体还是很简单，主要是希望有大神看下这样的结构有没啥隐患，或者对redis和mongodb集群的使用有没啥建议，另外有go的高手指导下就更好了···谢谢啊 :)
+
+联系：ruipengliu@live.cn
